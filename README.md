@@ -1,2 +1,2 @@
-# QR-Code-Generateur
-Android mobile application to create a QR codes and generate QR codes also! 
+# QR-Code-Generator
+Android mobile application to create/generate QR codes and save them on mobile memo as images . 
